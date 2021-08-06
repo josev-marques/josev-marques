@@ -3,7 +3,6 @@
 
 Nice to meet you, I'm a front-end developer learning to be a full stack web developer.
 
-* 🚀 Legal/Financial Manager at <a href="https://www.compjunior.com.br/" target="_blank">Comp Junior</a>
 * 🏢 Undergraduate in Computer Science by Federal University of Lavras - UFLA
 * 💻 Expertise in OOP
 
