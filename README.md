@@ -38,14 +38,9 @@ Nice to meet you, I'm a front-end developer learning to be a full stack web deve
 ---
 ### Contact me!
 <a target="_blank" href="https://www.linkedin.com/in/josevmarques/">
-  <img align="left" alt="LinkedIN" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
+  <img align="left" alt="LinkedIn" width="25px" src="https://logospng.org/download/linkedin/logo-linkedin-icon-2048.png" /> </a>
    
-
 <a target="_blank" href="mailto:josev.marques01@gmail.com">
-  <img align="left" alt="Instagram" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />
+  <img align="left" alt="Email" width="25px" src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-2-1.png" />
 </a>
-   
-
-<a target="_blank" href="https://gitlab.com/josev.marques">
-  <img align="left" alt="Instagram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/1200px-GitLab_Logo.svg.png" />
-</a>
+  
