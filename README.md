@@ -4,6 +4,7 @@
 Nice to meet you, I'm a front-end developer learning to be a full stack web developer.
 
 * 🏢 Undergraduate in Computer Science by Federal University of Lavras - UFLA
+* 🚀 Intern at GAFIT
 * 💻 Expertise in OOP
 
 ---
@@ -14,14 +15,13 @@ Nice to meet you, I'm a front-end developer learning to be a full stack web deve
 ![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=flat&logo=bootstrap)
 ![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
+![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
+![Sqlite](https://img.shields.io/badge/-Sqlite-555555?style=flat&logo=sqlite)
 
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
-![Python](https://img.shields.io/badge/-Python-555555?style=flat&logo=python)
-![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin)
-![Java](https://img.shields.io/badge/-Java-555555?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-555555?style=flat&logo=c%2B%2B)
 ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
 ![MySql](https://img.shields.io/badge/-MySql-555555?style=flat&logo=mySql)
+![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin)
   
 ---
 ### Technologies that I want to learn
@@ -29,8 +29,6 @@ Nice to meet you, I'm a front-end developer learning to be a full stack web deve
 ![Ruby](https://img.shields.io/badge/-Ruby-555555?style=flat&logo=ruby)
 ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
 ![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
-![Sqlite](https://img.shields.io/badge/-Sqlite-555555?style=flat&logo=sqlite)
 
 ---
 ### My current stats
