@@ -8,27 +8,28 @@ Nice to meet you, I'm a front-end developer learning to be a full stack web deve
 * 💻 Expertise in OOP
 
 ---
-### Currently studying
+### Currently studying and working
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-555555?style=flat&logo=vue.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-555555?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-555555?style=flat&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
+![CSS3](https://img.shields.io/badge/-CSS-555555?style=flat&logo=CSS3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-555555?style=flat&logo=bootstrap)
-![Node.js](https://img.shields.io/badge/-Node.js-555555?style=flat&logo=node.js)
 ![React Native](https://img.shields.io/badge/-React%20Native-555555?style=flat&logo=react)
-![Sqlite](https://img.shields.io/badge/-Sqlite-555555?style=flat&logo=sqlite)
 
 ![Express](https://img.shields.io/badge/-ExpressJS-555555?style=flat&logo=express)
 ![Git](https://img.shields.io/badge/-Git-555555?style=flat&logo=git)
 ![MySql](https://img.shields.io/badge/-MySql-555555?style=flat&logo=mySql)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin)
+![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
   
 ---
 ### Technologies that I want to learn
 ![Django](https://img.shields.io/badge/-Django-555555?style=flat&logo=django)
 ![Ruby](https://img.shields.io/badge/-Ruby-555555?style=flat&logo=ruby)
 ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
-![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-555555?style=flat&logo=next.js)
+![Sqlite](https://img.shields.io/badge/-Sqlite-555555?style=flat&logo=sqlite)
 
 ---
 ### My current stats
