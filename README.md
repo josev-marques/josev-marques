@@ -4,7 +4,7 @@
 Nice to meet you, I'm a front-end developer learning to be a full stack web developer.
 
 * 🏢 Undergraduate in Computer Science by Federal University of Lavras - UFLA
-* 🚀 Intern at GAFIT
+* 🚀 FullStack Developer at GAFIT
 * 💻 Expertise in OOP
 
 ---
