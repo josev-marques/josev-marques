@@ -1,7 +1,8 @@
 ## Welcome
 ### My name is José Vítor 👋
+#### FullStack Developer
 
-Nice to meet you, I'm a front-end developer learning to be a full stack web developer.
+Nice to meet you!!
 
 * 🏢 Undergraduate in Computer Science by Federal University of Lavras - UFLA
 * 🚀 FullStack Developer at GAFIT
@@ -22,11 +23,11 @@ Nice to meet you, I'm a front-end developer learning to be a full stack web deve
 ![MySql](https://img.shields.io/badge/-MySql-555555?style=flat&logo=mySql)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-555555?style=flat&logo=kotlin)
 ![React](https://img.shields.io/badge/-React-555555?style=flat&logo=react)
+![Ruby](https://img.shields.io/badge/-Ruby-555555?style=flat&logo=ruby)
   
 ---
 ### Technologies that I want to learn
 ![Django](https://img.shields.io/badge/-Django-555555?style=flat&logo=django)
-![Ruby](https://img.shields.io/badge/-Ruby-555555?style=flat&logo=ruby)
 ![Go](https://img.shields.io/badge/-Go-555555?style=flat&logo=go)
 ![Next.js](https://img.shields.io/badge/-Next.js-555555?style=flat&logo=next.js)
 ![Sqlite](https://img.shields.io/badge/-Sqlite-555555?style=flat&logo=sqlite)
