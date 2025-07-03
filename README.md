@@ -5,7 +5,6 @@
 Nice to meet you!!
 
 * 🏢 Undergraduate in Computer Science by Federal University of Lavras - UFLA
-* 🚀 FullStack Developer at GAFIT
 * 💻 Expertise in OOP
 
 ---
